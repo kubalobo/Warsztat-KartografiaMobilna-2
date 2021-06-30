@@ -12,6 +12,7 @@ h2 {
 
 #contactBox {
     border: 3px dotted #1dd64a;
+    border-radius: 10px;
     margin: 25px;
     padding: 25px;
 }
