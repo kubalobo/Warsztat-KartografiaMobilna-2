@@ -11,9 +11,7 @@ console.log(hello + " " + firstName + "🐈🐈🐈");
 
 
 
-function showPhone() {
-    console.log('☎');
-    const phone = 'Telefon: 123-234-345';
+function showContact(contactText) {
     const contactSpace = document.querySelector('#contactSpace');
-    contactSpace.innerHTML = phone;
+    contactSpace.innerHTML = contactText;
 }
