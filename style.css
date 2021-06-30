@@ -1,0 +1,17 @@
+h2 {
+    color: #2835ec;
+}
+
+#adres {
+    font-size: 30px;
+}
+
+.contact {
+    font-size: 22px;
+}
+
+#contactBox {
+    border: 3px dotted #1dd64a;
+    margin: 25px;
+    padding: 25px;
+}
